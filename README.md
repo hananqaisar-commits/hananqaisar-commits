@@ -8,6 +8,7 @@ Skills
 
 C / C++
 Java — OOP
+Python (fundamentals)
 Bash & Linux (daily driver)
 
 **What I do**
