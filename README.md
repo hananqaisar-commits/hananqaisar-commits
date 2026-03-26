@@ -1,4 +1,7 @@
-# Hi, I'm Hanan Qaisar            `¯\__(ツ)__/¯`
+# Hi, I'm Hanan Qaisar            
+```
+¯\__(ツ)__/¯
+```
 
 I'm a developer who loves building things and solving problems.  
 Still learning. Always curious. Never really done.
