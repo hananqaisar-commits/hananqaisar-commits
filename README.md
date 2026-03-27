@@ -16,7 +16,7 @@ Bash & Linux (daily driver)
 - Write code that (mostly) works
 - Break things on purpose to understand them
 - Build projects I actually care about
-
+  
 ---
 
 **A few things about me**
@@ -24,7 +24,8 @@ Bash & Linux (daily driver)
 - I get way too invested in side projects
 - I debug better at night for some reason
 - I think clean code is worth the extra time
-
+- I think networking is where the real.       magic happens
+- I don’t just use the internet, I try to.    understand it
 ---
 
 **Reach me**
