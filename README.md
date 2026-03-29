@@ -31,7 +31,3 @@ Bash & Linux (daily driver)
 **Reach me**
 
 - Email: hananqaisar316@gmail.com
-
----
-
-*thanks for stopping by.*
