@@ -24,8 +24,8 @@ Bash & Linux (daily driver)
 - I get way too invested in side projects
 - I debug better at night for some reason
 - I think clean code is worth the extra time
-- I think networking is where the real.       magic happens
-- I don’t just use the internet, I try to.    understand it
+- I think networking is where the real magic happens
+- I don’t just use the internet, I try to understand it
 ---
 
 **Reach me**
