@@ -130,8 +130,7 @@ Still learning. Always curious. Never really done.
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=hananqaisar-commits&cc=000&tc=fff&ic=fff&bc=000" height="170" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananqaisar-commits&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="170" alt="Top Languages"/>
-</p>
+  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Hanan's Contribution Graph"/>
