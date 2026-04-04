@@ -132,8 +132,8 @@ Still learning. Always curious. Never really done.
   &nbsp;&nbsp;
   
 
-<<p align="center">
-  <img src="https://raw.githubusercontent.com/hananqaisar-commits/hananqaisar-commits/output/snake.svg" width="95%" alt="Hanan's Contribution Graph"/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Hanan's Contribution Graph"/>
 </p>
 
 ---
