@@ -29,9 +29,7 @@ Still learning. Always curious. Never really done.
 
 ---
 
-## My Kitchen
-
-**Languages & Tools**
+## 🧰 My Kitchen
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="48" alt="C"/></a>&nbsp;
@@ -43,16 +41,13 @@ Still learning. Always curious. Never really done.
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" alt="Git"/></a>&nbsp;
   <a href="https://github.com/hananqaisar-commits" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub"/></a>
 </p>
-
-**Cybersecurity & Networking**
-
 <p align="left">
   <a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kali&theme=dark" height="48" alt="Kali Linux"/></a>&nbsp;
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" height="36" alt="Wireshark"/></a>&nbsp;
-  <a href="https://nmap.org/" target="_blank"><img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" height="36" alt="Nmap"/></a>&nbsp;
-  <a href="https://www.cisco.com/c/en/us/products/cloud-systems-management/packet-tracer/index.html" target="_blank"><img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="36" alt="Cisco Packet Tracer"/></a>&nbsp;
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" height="36" alt="Metasploit"/></a>&nbsp;
-  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" height="36" alt="Burp Suite"/></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark"/></a>&nbsp;
+  <a href="https://nmap.org/" target="_blank"><img src="https://cdn.simpleicons.org/nmap/0E83CD" height="48" alt="Nmap"/></a>&nbsp;
+  <a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/></a>&nbsp;
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite"/></a>&nbsp;
+  <a href="https://www.cisco.com/c/en/us/products/cloud-systems-management/packet-tracer/index.html" target="_blank"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="48" alt="Cisco"/></a>
 </p>
 
 ---
@@ -90,21 +85,11 @@ Still learning. Always curious. Never really done.
 ## 🔗 Connect
 
 <p align="left">
-  <a href="mailto:hananqaisar316@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="36" alt="Gmail"/>
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/hanan-qaisar-22b0b6368/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="36" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="https://www.instagram.com/hanan.qaisar?igsh=YTVwb2cwNG44aXp5" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="36" alt="Instagram"/>
-  </a>&nbsp;
-  <a href="https://twitter.com/hanan_qa316" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="36" alt="X (Twitter)"/>
-  </a>&nbsp;
-  <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" height="36" alt="Fiverr"/>
-  </a>
+  <a href="mailto:hananqaisar316@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hanan-qaisar-22b0b6368/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hanan.qaisar?igsh=YTVwb2cwNG44aXp5" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/hanan_qa316" target="_blank"><img src="https://cdn.simpleicons.org/x/ffffff" height="40" alt="X"/></a>&nbsp;&nbsp;
+  <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile" target="_blank"><img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" alt="Fiverr"/></a>
 </p>
 
 ---
