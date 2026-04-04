@@ -32,22 +32,51 @@ Still learning. Always curious. Never really done.
 ## 🧰 My Kitchen
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark" height="48" alt="C"/></a>&nbsp;
-  <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="48" alt="C++"/></a>&nbsp;
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="48" alt="Java"/></a>&nbsp;
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=py&theme=dark" height="48" alt="Python"/></a>&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="48" alt="Bash"/></a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="48" alt="Linux"/></a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" alt="Git"/></a>&nbsp;
-  <a href="https://github.com/hananqaisar-commits" target="_blank"><img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/c/A8B9CC" height="45" alt="C"/>
+  </a>&nbsp;
+  <a href="https://cplusplus.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="45" alt="C++"/>
+  </a>&nbsp;
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="45" alt="Java"/>
+  </a>&nbsp;
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="Python"/>
+  </a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="Bash"/>
+  </a>&nbsp;
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linux/FCC624" height="45" alt="Linux"/>
+  </a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="Git"/>
+  </a>&nbsp;
+  <a href="https://github.com/hananqaisar-commits" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="45" alt="GitHub"/>
+  </a>
 </p>
+
 <p align="left">
-  <a href="https://www.kali.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kali&theme=dark" height="48" alt="Kali Linux"/></a>&nbsp;
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark"/></a>&nbsp;
-  <a href="https://nmap.org/" target="_blank"><img src="https://cdn.simpleicons.org/nmap/0E83CD" height="48" alt="Nmap"/></a>&nbsp;
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/></a>&nbsp;
-  <a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite"/></a>&nbsp;
-  <a href="https://www.cisco.com/c/en/us/products/cloud-systems-management/packet-tracer/index.html" target="_blank"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="48" alt="Cisco"/></a>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="45" alt="Kali Linux"/>
+  </a>&nbsp;
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="45" alt="Wireshark"/>
+  </a>&nbsp;
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" height="45" alt="Nmap"/>
+  </a>&nbsp;
+  <a href="https://www.metasploit.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="45" alt="Metasploit"/>
+  </a>&nbsp;
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="45" alt="Burp Suite"/>
+  </a>&nbsp;
+  <a href="https://www.cisco.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="45" alt="Cisco"/>
+  </a>
 </p>
 
 ---
@@ -85,11 +114,21 @@ Still learning. Always curious. Never really done.
 ## 🔗 Connect
 
 <p align="left">
-  <a href="mailto:hananqaisar316@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail"/></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hanan-qaisar-22b0b6368/" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/hanan.qaisar?igsh=YTVwb2cwNG44aXp5" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/hanan_qa316" target="_blank"><img src="https://cdn.simpleicons.org/x/ffffff" height="40" alt="X"/></a>&nbsp;&nbsp;
-  <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile" target="_blank"><img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" alt="Fiverr"/></a>
+  <a href="mailto:hananqaisar316@gmail.com" target="_blank">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hanan-qaisar-22b0b6368/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hanan.qaisar?igsh=YTVwb2cwNG44aXp5" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/FF0069" height="40" alt="Instagram"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/hanan_qa316" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/ffffff" height="40" alt="X"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile" target="_blank">
+    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" alt="Fiverr"/>
+  </a>
 </p>
 
 ---
