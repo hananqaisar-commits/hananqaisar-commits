@@ -33,49 +33,49 @@ Still learning. Always curious. Never really done.
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/c/A8B9CC" height="45" alt="C"/>
+    <img src="https://skillicons.dev/icons?i=c&theme=dark" height="48" alt="C"/>
   </a>&nbsp;
   <a href="https://cplusplus.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="45" alt="C++"/>
+    <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="48" alt="C++"/>
   </a>&nbsp;
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/openjdk/ED8B00" height="45" alt="Java"/>
+    <img src="https://skillicons.dev/icons?i=java&theme=dark" height="48" alt="Java"/>
   </a>&nbsp;
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/python/3776AB" height="45" alt="Python"/>
+    <img src="https://skillicons.dev/icons?i=py&theme=dark" height="48" alt="Python"/>
   </a>&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="45" alt="Bash"/>
+    <img src="https://skillicons.dev/icons?i=bash&theme=dark" height="48" alt="Bash"/>
   </a>&nbsp;
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linux/FCC624" height="45" alt="Linux"/>
+    <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="48" alt="Linux"/>
   </a>&nbsp;
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/git/F05032" height="45" alt="Git"/>
+    <img src="https://skillicons.dev/icons?i=git&theme=dark" height="48" alt="Git"/>
   </a>&nbsp;
   <a href="https://github.com/hananqaisar-commits" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="45" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub"/>
   </a>
 </p>
 
 <p align="left">
   <a href="https://www.kali.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="45" alt="Kali Linux"/>
+    <img src="https://skillicons.dev/icons?i=kali&theme=dark" height="48" alt="Kali Linux"/>
   </a>&nbsp;
   <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="45" alt="Wireshark"/>
+    <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark"/>
   </a>&nbsp;
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" height="45" alt="Nmap"/>
+    <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" height="48" alt="Nmap"/>
   </a>&nbsp;
   <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="45" alt="Metasploit"/>
+    <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/>
   </a>&nbsp;
   <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="45" alt="Burp Suite"/>
+    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite"/>
   </a>&nbsp;
   <a href="https://www.cisco.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="45" alt="Cisco"/>
+    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="48" alt="Cisco"/>
   </a>
 </p>
 
@@ -86,7 +86,7 @@ Still learning. Always curious. Never really done.
 <table>
   <tr>
     <td>
-      <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/COMSATS_University_logo.png" width="60" alt="COMSATS Logo"/>
+      <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/COMSATS_University_logo.png" width="70" alt="COMSATS University Islamabad"/>
     </td>
     <td>
       &nbsp;&nbsp;<strong>BS Software Engineering</strong><br/>
@@ -100,13 +100,13 @@ Still learning. Always curious. Never really done.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hananqaisar-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hananqaisar-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="Hanan's GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananqaisar-commits&layout=donut&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananqaisar-commits&layout=donut&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Hanan's Contribution Graph"/>
 </p>
 
 ---
