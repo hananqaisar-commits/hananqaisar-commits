@@ -7,7 +7,9 @@ Still learning. Always curious. Never really done.
 
 ### Skills
 
-`C / C++` `Java` — `OOP` `Python (fundamentals)` `Bash & Linux (daily driver)`
+`C / C++` `Java` — `OOP`
+`Python (fundamentals)`
+`Bash & Linux (daily driver)`
 
 ---
 
@@ -130,7 +132,7 @@ Still learning. Always curious. Never really done.
 <p align="center">
   <img src="https://github-stats-alpha.vercel.app/api?username=hananqaisar-commits&cc=000&tc=fff&ic=fff&bc=000" height="170" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Hanan's Contribution Graph"/>
