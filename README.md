@@ -1,8 +1,10 @@
 <h1 align="center">
-	Hi there, I'm Hanan Qaisar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+  Hi there, I'm Hanan Qaisar <img src="./shrug.svg" width="80px" height="30px">
 </h1>
 <p align="center">
-	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=11ADF7&center=true&width=600&lines=Hi+I%27m+Hanan+Qaisar+%C2%AF%5C_%28%E3%83%84%29_%2F%C2%AF;Software+Engineering+Student;Cybersecurity+Enthusiast;Network+Explorer;Always+Breaking+Things+to+Learn" alt="Typing SVG" /></a>
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=11ADF7&center=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Enthusiast;Network+Explorer;Always+Breaking+Things+to+Learn" alt="Typing SVG" />
+	</a>
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/hananqaisar-commits?style=social)
