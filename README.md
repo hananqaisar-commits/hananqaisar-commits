@@ -74,7 +74,7 @@ Still learning. Always curious. Never really done.
     <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark"/>
   </a>&nbsp;
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://api.iconify.design/simple-icons/nmap.svg?color=%230E83CD&width=48&height=48" height="48" alt="Nmap"/>
+    <img src="https://cdn.simpleicons.org/nmap/0E83CD" height="48" alt="Nmap"/>
   </a>&nbsp;
   <a href="https://www.metasploit.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/>
@@ -99,7 +99,7 @@ Still learning. Always curious. Never really done.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain-wordmark.svg" height="48" alt="Nano"/>
   </a>&nbsp;
   <a href="https://www.sublimetext.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=sublime&theme=dark" height="48" alt="Sublime Text"/>
+    <img src="https://cdn.simpleicons.org/sublimetext/FF9800" height="48" alt="Sublime Text"/>
   </a>&nbsp;
   <a href="https://www.jetbrains.com/idea/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="48" alt="IntelliJ IDEA"/>
