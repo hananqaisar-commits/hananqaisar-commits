@@ -1,14 +1,47 @@
-<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+<svg width="520" height="120" viewBox="0 0 300 60" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @keyframes arm-l { 0%,100%{transform:rotate(0deg) translateY(0)} 50%{transform:rotate(-40deg) translateY(-6px)} }
-    @keyframes arm-r { 0%,100%{transform:rotate(0deg) translateY(0)} 50%{transform:rotate(40deg) translateY(-6px)} }
-    @keyframes body-float { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-5px)} }
-    .arm-l { transform-origin: 52px 30px; animation: arm-l 2s ease-in-out infinite; }
-    .arm-r { transform-origin: 108px 30px; animation: arm-r 2s ease-in-out infinite; }
-    .body { animation: body-float 2s ease-in-out infinite; }
-    text { font-family: monospace; font-size: 28px; font-weight: bold; fill: #11ADF7; }
+    @keyframes arm-l {
+      0%,100% { transform: rotate(0deg); }
+      50% { transform: rotate(-20deg); }
+    }
+
+    @keyframes arm-r {
+      0%,100% { transform: rotate(0deg); }
+      50% { transform: rotate(20deg); }
+    }
+
+    @keyframes body {
+      0%,100% { transform: translateY(0); }
+      50% { transform: translateY(-3px); }
+    }
+
+    .arm {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: 2s ease-in-out infinite;
+    }
+
+    .arm-l { animation-name: arm-l; }
+    .arm-r { animation-name: arm-r; }
+
+    .body {
+      animation: body 2s ease-in-out infinite;
+    }
+
+    text {
+      font-family: monospace;
+      font-size: 28px;
+      font-weight: bold;
+      fill: #11ADF7;
+    }
   </style>
-  <text class="arm-l" x="10" y="38">¯\</text>
-  <text class="body" x="52" y="38">_(ツ)_</text>
-  <text class="arm-r" x="108" y="38">/¯</text>
+
+  <!-- Left arm -->
+  <text class="arm arm-l" x="80" y="38">¯\</text>
+
+  <!-- Body -->
+  <text class="body" x="120" y="38">_(ツ)_</text>
+
+  <!-- Right arm (moved far outward) -->
+  <text class="arm arm-r" x="220" y="38">/¯</text>
 </svg>
