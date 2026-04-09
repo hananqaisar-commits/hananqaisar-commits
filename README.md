@@ -1,8 +1,13 @@
-# Hi, I'm Hanan Qaisar `¯\__(ツ)__/¯`
+<h1 align="center">
+	Hi there, I'm Hanan Qaisar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
+</h1>
+<p align="center">
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=11ADF7&center=true&width=600&lines=Hi+I%27m+Hanan+Qaisar+%C2%AF%5C_%28%E3%83%84%29_%2F%C2%AF;Software+Engineering+Student;Cybersecurity+Enthusiast;Network+Explorer;Always+Breaking+Things+to+Learn" alt="Typing SVG" /></a>
+</p>
 
-I'm a developer who loves building things and solving problems.
-Still learning. Always curious. Never really done.
-
+![GitHub followers](https://img.shields.io/github/followers/hananqaisar-commits?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/hananqaisar-commits?style=social)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hananqaisar-commits.hananqaisar-commits) <img src="https://komarev.com/ghpvc/?username=hananqaisar-commits" alt="hananqaisar-commits" />
 ---
 
 ### Skills
@@ -10,14 +15,6 @@ Still learning. Always curious. Never really done.
 `C / C++` `Java` — `OOP`
 `Python (fundamentals)`
 `Bash & Linux (daily driver)`
-
----
-
-### What I do
-
-- Write code that (mostly) works
-- Break things on purpose to understand them
-- Build projects I actually care about
 
 ---
 
@@ -35,7 +32,7 @@ Still learning. Always curious. Never really done.
 
 <br>
 
-## 🧰 My Kitchen
+## 👨🏻‍💻 Technologies and Tools
 
 <!-- Languages -->
 <p align="left">
@@ -134,13 +131,16 @@ Still learning. Always curious. Never really done.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=hananqaisar-commits&cc=000&tc=fff&ic=fff&bc=000" height="170" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Hanan's Contribution Graph"/>
 </p>
+
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hananqaisar-commits&theme=tokyonight_duo" alt="hananqaisar-commits" /></p>
+<br/>
+<p align="center">
+  <img alt="hananqaisar-commits's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="170px"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="hananqaisar-commits" height="170px"/>
+</p>
+<br/>
 
 ---
 
