@@ -21,7 +21,11 @@ Still learning. Always curious. Never really done.
 
 ---
 
-### A few things about me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
+
+<picture><img align="right" height="220rem" alt="GIF" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/></picture>
+
+<br><br>
 
 - I get way too invested in side projects
 - I debug better at night for some reason
@@ -29,7 +33,7 @@ Still learning. Always curious. Never really done.
 - I think networking is where the real magic happens
 - I don't just use the internet, I try to understand it
 
----
+<br>
 
 ## 🧰 My Kitchen
 
@@ -74,7 +78,7 @@ Still learning. Always curious. Never really done.
     <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark"/>
   </a>&nbsp;
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/nmap/0E83CD" height="48" alt="Nmap"/>
+   <img src="https://img.icons8.com/color/48/nmap.png" height="48" alt="Nmap"/>
   </a>&nbsp;
   <a href="https://www.metasploit.com/" target="_blank">
     <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/>
