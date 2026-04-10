@@ -1,4 +1,4 @@
-<h1 align="left">&nbsp;&nbsp;&nbsp;Hi, I'm Hanan Qaisar <img src="./shrug.svg" width="350" height="70" style="vertical-align:middle"></h1>
+<h1 align="left">&nbsp;&nbsp;&nbsp;Hi, I'm Hanan Qaisar <img src="./shrug.svg" width="350" height="86" style="vertical-align:middle"></h1>
 <p align="left">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=11ADF7&center=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Enthusiast;Network+Explorer;Always+Breaking+Things+to+Learn" alt="Typing SVG" />
