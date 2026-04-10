@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Hanan Qaisar <img src="./shrug.svg" width="80px" height="30px">
+  Hi, I'm Hanan Qaisar <img src="./shrug.svg" width="80px" height="90px">
 </h1>
 <p align="center">
 	<a href="https://git.io/typing-svg">
@@ -12,6 +12,10 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hananqaisar-commits.hananqaisar-commits) <img src="https://komarev.com/ghpvc/?username=hananqaisar-commits" alt="hananqaisar-commits" />
 ---
 
+<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanan%20Qaisar-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/hanan-qaisar-22b0b6368/)
+[![X (Twitter)](https://img.shields.io/badge/X-@hanan_qa316-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/hanan_qa316)
+[![Email](https://img.shields.io/badge/Email-hanan1%40student.comsats.ac.pk-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:hananqaisar316@gmail.com)
 ### Skills
 
 `C / C++` `Java` — `OOP`
@@ -132,9 +136,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Hanan's Contribution Graph"/>
-</p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hananqaisar-commits&theme=tokyonight_duo" alt="hananqaisar-commits" /></p>
 <br/>
@@ -144,6 +145,10 @@
 </p>
 <br/>
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Hanan's Contribution Graph"/>
+</p>
 ---
 
 ## 🔗 Connect
