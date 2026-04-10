@@ -1,4 +1,4 @@
-<h1 align="left">&nbsp;&nbsp;&nbsp;Hi, I'm Hanan Qaisar <img src="./shrug.svg" width="350" height="86" style="vertical-align:middle"></h1>
+<h1 align="left">&nbsp;&nbsp;&nbsp;Hi, I'm Hanan Qaisar <img src="./shrug.svg" width="360" height="60" style="vertical-align:middle"></h1>
 <p align="left">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=11ADF7&center=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Enthusiast;Network+Explorer;Always+Breaking+Things+to+Learn" alt="Typing SVG" />
@@ -121,7 +121,8 @@
     </td>
     <td>
       <strong>BS Software Engineering</strong><br/>
-      COMSATS University Islamabad
+      COMSATS University Islamabad<br/>
+      <strong>GPA:</strong> 3.14
     </td>
   </tr>
 </table>
@@ -129,25 +130,20 @@
 
 ##  GitHub Stats
 
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align="left" />
+<img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=chartreuse-dark" align="right" width="60%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="right" width="300" />
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" align="left" width="400">
+</p>
+<br clear="both" />
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="230"  width="270" />
-  <img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight_duo" alt="hananqaisar-commits"width="60%" />
-</p>
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
-</p>
-<p align="right">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
-</p>
-<p align="center">
-  <img alt="hananqaisar-commits's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="170px"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="hananqaisar-commits" height="170px"/>
+<img alt="hananqaisar-commits's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=chartreuse-dark&layout=compact" height="170px"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=chartreuse-dark" alt="hananqaisar-commits" height="170px"/>
 </p>
 <br/>
-
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Hanan's Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=chartreuse-dark&hide_border=true&area=true" width="95%" alt="Hanan's Contribution Graph"/>
 </p>
 ---
 
