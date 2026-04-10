@@ -1,21 +1,21 @@
-<h1 align="center">
-  Hi, I'm Hanan Qaisar <img src="./shrug.svg" width="80px" height="90px">
-</h1>
-<p align="center">
-	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=11ADF7&center=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Enthusiast;Network+Explorer;Always+Breaking+Things+to+Learn" alt="Typing SVG" />
-	</a>
+<div align="left" style="line-height:1; display:flex; align-items:center; justify-content:left; gap:10px;">
+  <h1 style="margin:0; padding:0;">Hi, I'm Hanan Qaisar</h1>
+<img src="./shrug.svg" width="350" height="70" style="vertical-align:middle">
+</div>
+<p align="left">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=11ADF7&center=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Enthusiast;Network+Explorer;Always+Breaking+Things+to+Learn" alt="Typing SVG" />
+</a>
 </p>
 
 ![GitHub followers](https://img.shields.io/github/followers/hananqaisar-commits?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/hananqaisar-commits?style=social)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hananqaisar-commits.hananqaisar-commits) <img src="https://komarev.com/ghpvc/?username=hananqaisar-commits" alt="hananqaisar-commits" />
----
-
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanan%20Qaisar-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/hanan-qaisar-22b0b6368/)
 [![X (Twitter)](https://img.shields.io/badge/X-@hanan_qa316-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/hanan_qa316)
-[![Email](https://img.shields.io/badge/Email-hanan1%40student.comsats.ac.pk-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:hananqaisar316@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hanan%40student.comsats.lhr.pk-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:hananqaisar316@gmail.com)
+---
 ### Skills
 
 `C / C++` `Java` — `OOP`
@@ -38,7 +38,7 @@
 
 <br>
 
-## 👨🏻‍💻 Technologies and Tools
+## My Kitchen
 
 <!-- Languages -->
 <p align="left">
@@ -57,8 +57,7 @@
 </p>
 
 <!-- Scripting / Automation -->
-<p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="48" alt="Bash"/>
   </a>&nbsp;
   <a href="https://www.linux.org/" target="_blank">
@@ -116,29 +115,33 @@
   </a>
 </p>
 
----
-
-## 🎓 Education
+##  Education
 
 <table>
   <tr>
-    <td>
-      <img src="https://www.comsats.edu.pk/images/logo.png" width="70" alt="COMSATS University Islamabad"/>
+    <td align="center">
+      <img src="https://www.comsats.edu.pk/images/logo.png" width="90" alt="COMSATS University Islamabad"/>
     </td>
     <td>
-      &nbsp;&nbsp;<strong>BS Software Engineering</strong><br/>
-      &nbsp;&nbsp;COMSATS University Islamabad
+      <strong>BS Software Engineering</strong><br/>
+      COMSATS University Islamabad
     </td>
   </tr>
 </table>
 
----
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hananqaisar-commits&theme=tokyonight_duo" alt="hananqaisar-commits" /></p>
-<br/>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" height="230"  width="270" />
+  <img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight_duo" alt="hananqaisar-commits"width="60%" />
+</p>
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300" />
+</p>
+<p align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
+</p>
 <p align="center">
   <img alt="hananqaisar-commits's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="170px"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="hananqaisar-commits" height="170px"/>
@@ -173,7 +176,5 @@
     <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" alt="Fiverr"/>
   </a>
 </p>
-
----
 
 > *"Whatever is Easy is Hard, Whatever is Hard is Easy"*
