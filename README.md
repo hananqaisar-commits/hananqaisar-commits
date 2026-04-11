@@ -53,7 +53,7 @@
   </a>
 </p>
 
-<!-- Scripting / Automation -->
+
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="48" alt="Bash"/>
   </a>&nbsp;
@@ -68,7 +68,7 @@
   </a>
 </p>
 
-<!-- Networking / Security -->
+<
 <p align="left">
   <a href="https://www.kali.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="48" alt="Kali Linux"/>
@@ -90,7 +90,7 @@
   </a>
 </p>
 
-<!-- Editors -->
+
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VS Code"/>
