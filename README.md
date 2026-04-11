@@ -68,7 +68,6 @@
   </a>
 </p>
 
-<
 <p align="left">
   <a href="https://www.kali.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="48" alt="Kali Linux"/>
