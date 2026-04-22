@@ -139,18 +139,34 @@
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" align="left" />
-<img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=chartreuse-dark" align="right" width="60%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=chartreuse-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=default">
+  <img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=default" align="right" width="60%" />
+</picture>
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" align="right" width="300" />
 <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" align="left" width="400">
 </p>
 <br clear="both" />
 <p align="center">
-<img alt="hananqaisar-commits's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=chartreuse-dark&layout=compact" height="170px"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=chartreuse-dark" alt="hananqaisar-commits" height="170px"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=chartreuse-dark&layout=compact">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=default&layout=compact">
+  <img alt="hananqaisar-commits's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=default&layout=compact" height="170px"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=chartreuse-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=default">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=default" alt="hananqaisar-commits" height="170px"/>
+</picture>
 </p>
 <br/>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=chartreuse-dark&hide_border=true&area=true" width="95%" alt="Hanan's Contribution Graph"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=chartreuse-dark&hide_border=true&area=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=minimal&hide_border=true&area=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=minimal&hide_border=true&area=true" width="95%" alt="Hanan's Contribution Graph"/>
+</picture>
 </p>
 
 ---
