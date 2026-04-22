@@ -68,7 +68,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git"/>
   </a>&nbsp;
   <a href="https://github.com/hananqaisar-commits" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="48" alt="GitHub"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+      <img src="https://cdn.simpleicons.org/github/181717" height="48" alt="GitHub"/>
+    </picture>
   </a>
 </p>
 
@@ -148,13 +152,18 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=chartreuse-dark&hide_border=true&area=true" width="95%" alt="Hanan's Contribution Graph"/>
 </p>
+
 ---
 
 ## 🔗 Connect
 
 <p align="left">
   <a href="https://github.com/hananqaisar-commits" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
+      <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub"/>
+    </picture>
   </a>&nbsp;&nbsp;
   <a href="mailto:hananqaisar316@gmail.com" target="_blank">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail"/>
@@ -166,7 +175,11 @@
     <img src="https://cdn.simpleicons.org/instagram/FF0069" height="40" alt="Instagram"/>
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/hanan_qa316" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/ffffff" height="40" alt="X"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff">
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000">
+      <img src="https://cdn.simpleicons.org/x/000000" height="40" alt="X"/>
+    </picture>
   </a>&nbsp;&nbsp;
   <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile" target="_blank">
     <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" alt="Fiverr"/>
