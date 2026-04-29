@@ -19,10 +19,12 @@
 ---
 ### Skills
 
-`C / C++` `Java` — `OOP`
+`C / C++` `Java` — `OOP` 
 `Python (fundamentals)`
-`Bash & Linux (daily driver)`
-
+```
+<br>
+````Bash & Linux (daily driver)`
+```
 ---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
@@ -56,7 +58,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python"/>
   </a>
 </p>
-
 
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="48" alt="Bash"/>
@@ -99,7 +100,6 @@
     <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="48" alt="Cisco"/>
   </a>
 </p>
-
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
