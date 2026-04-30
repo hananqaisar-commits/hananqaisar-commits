@@ -20,10 +20,7 @@
 ### Skills
 
 `C / C++` `Java` — `OOP` 
-`Python (fundamentals)`
-```
-<br>
-````Bash & Linux (daily driver)`
+`Python (fundamentals)` `Bash & Linux (daily driver)`
 ```
 ---
 
