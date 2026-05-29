@@ -1,6 +1,9 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=130&section=header&animation=fadeIn&fontColor=11ADF7&fontSize=40" width="100%"/>
-</div>
+<!-- DARK MODE HEADER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=140&section=header&animation=fadeIn&text=Hanan%20Qaisar&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=11ADF7"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4fd,50:11ADF7,100:e8f4fd&height=140&section=header&animation=fadeIn&text=Hanan%20Qaisar&fontColor=0d1117&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=0550ae"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=140&section=header&animation=fadeIn&text=Hanan%20Qaisar&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=11ADF7" width="100%"/>
+</picture>
 
 <h1 align="left">&nbsp;&nbsp;&nbsp;Hi, I'm Hanan Qaisar <img src="./shrug.svg" width="360" height="60" style="vertical-align:middle"></h1>
 
@@ -25,7 +28,13 @@
   <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile"><img src="https://img.shields.io/badge/Fiverr-hananqaisar316-1DBF73?logo=fiverr&logoColor=white&style=flat-square"/></a>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0550ae&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
+</picture>
+
+<br>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
@@ -39,49 +48,68 @@
 - I think networking is where the real magic happens
 - I don't just use the internet, I try to understand it
 
-<br><br>
+<br><br><br>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0550ae&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
+</picture>
+
+<br>
 
 ## 🛠️ Skills
 
-```
-Languages    │  C / C++   Java   Python (fundamentals)
-Environment  │  Bash & Linux (daily driver)   OOP
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%20%2F%20C%2B%2B-Languages-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0d1117"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%20%2F%20C%2B%2B-Languages-00599C?style=flat-square&logo=c&logoColor=white&labelColor=ddeeff"/>
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-Languages-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0d1117"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-Languages-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-Languages-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=fff3e0"/>
+  <img src="https://img.shields.io/badge/Java-Languages-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-fundamentals-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-fundamentals-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=e3f0ff"/>
+  <img src="https://img.shields.io/badge/Python-fundamentals-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bash%20%26%20Linux-daily%20driver-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Bash%20%26%20Linux-daily%20driver-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=e8f5e9"/>
+  <img src="https://img.shields.io/badge/Bash%20%26%20Linux-daily%20driver-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117"/>
+</picture>&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OOP-Paradigm-9B59B6?style=flat-square&logo=buffer&logoColor=white&labelColor=0d1117"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/OOP-Paradigm-9B59B6?style=flat-square&logo=buffer&logoColor=white&labelColor=f3e5ff"/>
+  <img src="https://img.shields.io/badge/OOP-Paradigm-9B59B6?style=flat-square&logo=buffer&logoColor=white&labelColor=0d1117"/>
+</picture>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0550ae&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
+</picture>
+
+<br>
 
 ## 🍳 My Kitchen
 
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48" alt="C" title="C"/>
-  </a>&nbsp;
-  <a href="https://cplusplus.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" title="C++"/>
-  </a>&nbsp;
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java" title="Java"/>
-  </a>&nbsp;
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python" title="Python"/>
-  </a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48" alt="C" title="C"/></a>&nbsp;
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" title="C++"/></a>&nbsp;
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java" title="Java"/></a>&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python" title="Python"/></a>
 </p>
 
 <p align="left">
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="48" alt="Bash" title="Bash"/>
-  </a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="48" alt="Linux" title="Linux"/>
-  </a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="48" alt="Docker" title="Docker"/>
-  </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git" title="Git"/>
-  </a>&nbsp;
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="48" alt="Bash" title="Bash"/></a>&nbsp;
+  <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="48" alt="Linux" title="Linux"/></a>&nbsp;
+  <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="48" alt="Docker" title="Docker"/></a>&nbsp;
+  <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="48" alt="Git" title="Git"/></a>&nbsp;
   <a href="https://github.com/hananqaisar-commits" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
@@ -92,54 +120,36 @@ Environment  │  Bash & Linux (daily driver)   OOP
 </p>
 
 <p align="left">
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="48" alt="Kali Linux" title="Kali Linux"/>
-  </a>&nbsp;
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark" title="Wireshark"/>
-  </a>&nbsp;
-  <a href="https://nmap.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/nmap.png" height="48" alt="Nmap" title="Nmap"/>
-  </a>&nbsp;
-  <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit" title="Metasploit"/>
-  </a>&nbsp;
-  <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" title="Burp Suite"/>
-  </a>&nbsp;
-  <a href="https://www.cisco.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="48" alt="Cisco" title="Cisco"/>
-  </a>
+  <a href="https://www.kali.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="48" alt="Kali Linux" title="Kali Linux"/></a>&nbsp;
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark" title="Wireshark"/></a>&nbsp;
+  <a href="https://nmap.org/" target="_blank"><img src="https://img.icons8.com/color/48/nmap.png" height="48" alt="Nmap" title="Nmap"/></a>&nbsp;
+  <a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit" title="Metasploit"/></a>&nbsp;
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" title="Burp Suite"/></a>&nbsp;
+  <a href="https://www.cisco.com/" target="_blank"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="48" alt="Cisco" title="Cisco"/></a>
 </p>
 
 <p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VS Code" title="VS Code"/>
-  </a>&nbsp;
-  <a href="https://www.vim.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="48" alt="Vim" title="Vim"/>
-  </a>&nbsp;
-  <a href="https://www.nano-editor.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain-wordmark.svg" height="48" alt="Nano" title="Nano"/>
-  </a>&nbsp;
-  <a href="https://www.sublimetext.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/sublimetext/FF9800" height="48" alt="Sublime Text" title="Sublime Text"/>
-  </a>&nbsp;
-  <a href="https://www.jetbrains.com/idea/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
-  </a>&nbsp;
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="48" alt="PyCharm" title="PyCharm"/>
-  </a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VS Code" title="VS Code"/></a>&nbsp;
+  <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="48" alt="Vim" title="Vim"/></a>&nbsp;
+  <a href="https://www.nano-editor.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain-wordmark.svg" height="48" alt="Nano" title="Nano"/></a>&nbsp;
+  <a href="https://www.sublimetext.com/" target="_blank"><img src="https://cdn.simpleicons.org/sublimetext/FF9800" height="48" alt="Sublime Text" title="Sublime Text"/></a>&nbsp;
+  <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a>&nbsp;
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="48" alt="PyCharm" title="PyCharm"/></a>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0550ae&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
+</picture>
+
+<br>
 
 ## 🎓 Education
 
-<table>
+<table border="0" cellspacing="0" cellpadding="16">
   <tr>
-    <td align="center">
+    <td align="center" width="120">
       <img src="https://www.comsats.edu.pk/images/logo.png" width="90" alt="COMSATS University Islamabad"/>
     </td>
     <td>
@@ -150,46 +160,58 @@ Environment  │  Bash & Linux (daily driver)   OOP
   </tr>
 </table>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0550ae&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
+</picture>
+
+<br>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="600">
 </p>
 
 <br clear="both"/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight&hide_border=true&border_radius=16">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=light_ocean&hide_border=true&border_radius=16">
-    <img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=light_ocean&hide_border=true&border_radius=16" width="60%"/>
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight&hide_border=true&border_radius=16">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=default&hide_border=true&border_radius=16">
+  <img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=default&hide_border=true&border_radius=16" width="60%"/>
+</picture>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true&border_radius=16">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=light_ocean&layout=compact&hide_border=true&border_radius=16">
-    <img alt="hananqaisar-commits's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=light_ocean&layout=compact&hide_border=true&border_radius=16" height="170px"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=light_ocean&hide_border=true&border_radius=16">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=light_ocean&hide_border=true&border_radius=16" alt="hananqaisar-commits" height="170px"/>
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true&border_radius=16">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=default&layout=compact&hide_border=true&border_radius=16">
+  <img alt="hananqaisar-commits's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=default&layout=compact&hide_border=true&border_radius=16" height="170px"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=default&hide_border=true&border_radius=16">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=default&hide_border=true&border_radius=16" alt="hananqaisar-commits" height="170px"/>
+</picture>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true&radius=16">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=github&hide_border=true&area=true&radius=16">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=github&hide_border=true&area=true&radius=16" width="95%" alt="Hanan's Contribution Graph"/>
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true&radius=16">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=github&hide_border=true&area=true&radius=16">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=github&hide_border=true&area=true&radius=16" width="95%" alt="Hanan's Contribution Graph"/>
+</picture>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0550ae&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
+</picture>
+
+<br>
 
 ## 🔗 Connect
 
@@ -201,15 +223,9 @@ Environment  │  Bash & Linux (daily driver)   OOP
       <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub"/>
     </picture>
   </a>&nbsp;&nbsp;
-  <a href="mailto:hananqaisar316@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hanan-qaisar-22b0b6368/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/hanan.qaisar?igsh=YTVwb2cwNG44aXp5" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/FF0069" height="40" alt="Instagram"/>
-  </a>&nbsp;&nbsp;
+  <a href="mailto:hananqaisar316@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hanan-qaisar-22b0b6368/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hanan.qaisar?igsh=YTVwb2cwNG44aXp5" target="_blank"><img src="https://cdn.simpleicons.org/instagram/FF0069" height="40" alt="Instagram"/></a>&nbsp;&nbsp;
   <a href="https://twitter.com/hanan_qa316" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff">
@@ -217,15 +233,28 @@ Environment  │  Bash & Linux (daily driver)   OOP
       <img src="https://cdn.simpleicons.org/x/000000" height="40" alt="X"/>
     </picture>
   </a>&nbsp;&nbsp;
-  <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile" target="_blank">
-    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" alt="Fiverr"/>
-  </a>
+  <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile" target="_blank"><img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" alt="Fiverr"/></a>
 </p>
 
 <br>
 
-> *"Whatever is Easy is Hard, Whatever is Hard is Easy"*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
+</picture>
+
+<br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+<sub><i>"Whatever is Easy is Hard, Whatever is Hard is Easy"</i></sub>
 </div>
+
+<br>
+
+<!-- DARK MODE FOOTER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=100&section=footer&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4fd,50:11ADF7,100:e8f4fd&height=100&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+</picture>
