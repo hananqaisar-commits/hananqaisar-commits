@@ -1,7 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=120&section=header&animation=fadeIn" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=130&section=header&animation=fadeIn&fontColor=11ADF7&fontSize=40" width="100%"/>
 </div>
 
 <h1 align="left">&nbsp;&nbsp;&nbsp;Hi, I'm Hanan Qaisar <img src="./shrug.svg" width="360" height="60" style="vertical-align:middle"></h1>
@@ -13,21 +11,21 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/github/followers/hananqaisar-commits?style=flat-square&logo=github&labelColor=0d1117&color=11ADF7&label=Followers"/>
-  <img src="https://img.shields.io/github/stars/hananqaisar-commits?style=flat-square&logo=github&labelColor=0d1117&color=11ADF7&label=Stars"/>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hananqaisar-commits.hananqaisar-commits&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/hananqaisar-commits?style=flat-square&logo=github&labelColor=0d1117&color=11ADF7&label=Followers"/>&nbsp;
+  <img src="https://img.shields.io/github/stars/hananqaisar-commits?style=flat-square&logo=github&labelColor=0d1117&color=11ADF7&label=Stars"/>&nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=hananqaisar-commits.hananqaisar-commits&style=flat-square"/>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=hananqaisar-commits&style=flat-square&color=11ADF7&label=Profile+Views"/>
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/hanan-qaisar-22b0b6368/"><img src="https://img.shields.io/badge/LinkedIn-Hanan%20Qaisar-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/></a>
-  <a href="https://x.com/hanan_qa316"><img src="https://img.shields.io/badge/X-@hanan_qa316-000000?logo=x&logoColor=white&style=flat-square"/></a>
-  <a href="mailto:hananqaisar316@gmail.com"><img src="https://img.shields.io/badge/Email-hanan%40student.comsats.lhr.pk-1f6feb?logo=gmail&logoColor=white&style=flat-square"/></a>
-  <a href="https://www.instagram.com/hanan.qaisar?igsh=YTVwb2cwNG44aXp5"><img src="https://img.shields.io/badge/Insta-@hanan_qaisar-E4405F?logo=instagram&logoColor=white&style=flat-square"/></a>
+  <a href="https://www.linkedin.com/in/hanan-qaisar-22b0b6368/"><img src="https://img.shields.io/badge/LinkedIn-Hanan%20Qaisar-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/></a>&nbsp;
+  <a href="https://x.com/hanan_qa316"><img src="https://img.shields.io/badge/X-@hanan_qa316-000000?logo=x&logoColor=white&style=flat-square"/></a>&nbsp;
+  <a href="mailto:hananqaisar316@gmail.com"><img src="https://img.shields.io/badge/Email-hanan%40student.comsats.lhr.pk-1f6feb?logo=gmail&logoColor=white&style=flat-square"/></a>&nbsp;
+  <a href="https://www.instagram.com/hanan.qaisar?igsh=YTVwb2cwNG44aXp5"><img src="https://img.shields.io/badge/Insta-@hanan_qaisar-E4405F?logo=instagram&logoColor=white&style=flat-square"/></a>&nbsp;
   <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile"><img src="https://img.shields.io/badge/Fiverr-hananqaisar316-1DBF73?logo=fiverr&logoColor=white&style=flat-square"/></a>
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About me
 
@@ -43,7 +41,7 @@
 
 <br><br>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ## 🛠️ Skills
 
@@ -52,11 +50,9 @@ Languages    │  C / C++   Java   Python (fundamentals)
 Environment  │  Bash & Linux (daily driver)   OOP
 ```
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ## 🍳 My Kitchen
-
-**Languages**
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
@@ -72,8 +68,6 @@ Environment  │  Bash & Linux (daily driver)   OOP
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python" title="Python"/>
   </a>
 </p>
-
-**Dev Environment**
 
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank">
@@ -97,8 +91,6 @@ Environment  │  Bash & Linux (daily driver)   OOP
   </a>
 </p>
 
-**Cybersecurity & Networking**
-
 <p align="left">
   <a href="https://www.kali.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="48" alt="Kali Linux" title="Kali Linux"/>
@@ -119,8 +111,6 @@ Environment  │  Bash & Linux (daily driver)   OOP
     <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="48" alt="Cisco" title="Cisco"/>
   </a>
 </p>
-
-**Editors & IDEs**
 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -143,7 +133,7 @@ Environment  │  Bash & Linux (daily driver)   OOP
   </a>
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ## 🎓 Education
 
@@ -160,7 +150,7 @@ Environment  │  Bash & Linux (daily driver)   OOP
   </tr>
 </table>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -172,34 +162,34 @@ Environment  │  Bash & Linux (daily driver)   OOP
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight&hide_border=true&border_radius=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=light_ocean&hide_border=true&border_radius=10">
-    <img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=light_ocean&hide_border=true&border_radius=10" width="60%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight&hide_border=true&border_radius=16">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=light_ocean&hide_border=true&border_radius=16">
+    <img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=light_ocean&hide_border=true&border_radius=16" width="60%"/>
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true&border_radius=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=light_ocean&layout=compact&hide_border=true&border_radius=10">
-    <img alt="hananqaisar-commits's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=light_ocean&layout=compact&hide_border=true&border_radius=10" height="170px"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true&border_radius=16">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=light_ocean&layout=compact&hide_border=true&border_radius=16">
+    <img alt="hananqaisar-commits's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=light_ocean&layout=compact&hide_border=true&border_radius=16" height="170px"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=light_ocean&hide_border=true&border_radius=10">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=light_ocean&hide_border=true&border_radius=10" alt="hananqaisar-commits" height="170px"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=light_ocean&hide_border=true&border_radius=16">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=light_ocean&hide_border=true&border_radius=16" alt="hananqaisar-commits" height="170px"/>
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true&radius=10">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=github&hide_border=true&area=true&radius=10">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=github&hide_border=true&area=true&radius=10" width="95%" alt="Hanan's Contribution Graph"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true&radius=16">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=github&hide_border=true&area=true&radius=16">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=github&hide_border=true&area=true&radius=16" width="95%" alt="Hanan's Contribution Graph"/>
   </picture>
 </p>
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
 
 ## 🔗 Connect
 
@@ -237,7 +227,5 @@ Environment  │  Bash & Linux (daily driver)   OOP
 > *"Whatever is Easy is Hard, Whatever is Hard is Easy"*
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
-
 </div>
