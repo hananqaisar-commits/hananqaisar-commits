@@ -4,7 +4,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=11ADF7&center=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Enthusiast;Network+Explorer;Always+Breaking+Things+to+Learn" alt="Typing SVG" />
 </a>
 </p>
-
 ![GitHub followers](https://img.shields.io/github/followers/hananqaisar-commits?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/hananqaisar-commits?style=social)
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hananqaisar-commits.hananqaisar-commits) <img src="https://komarev.com/ghpvc/?username=hananqaisar-commits" alt="hananqaisar-commits" />
@@ -40,7 +39,6 @@
 
 ## My Kitchen
 
-<!-- Languages -->
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48" alt="C"/>
