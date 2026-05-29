@@ -1,24 +1,27 @@
 
 <h1 align="left">&nbsp;&nbsp;&nbsp;Hi, I'm Hanan Qaisar <img src="./shrug.svg" width="360" height="60" style="vertical-align:middle"></h1>
-<p align="left">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=11ADF7&center=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Enthusiast;Network+Explorer;Always+Breaking+Things+to+Learn" alt="Typing SVG" />
-</a>
 
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=11ADF7&center=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Enthusiast;Network+Explorer;Always+Breaking+Things+to+Learn" alt="Typing SVG" />
+  </a>
 </p>
+
 ![GitHub followers](https://img.shields.io/github/followers/hananqaisar-commits?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/hananqaisar-commits?style=social)
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hananqaisar-commits.hananqaisar-commits) <img src="https://komarev.com/ghpvc/?username=hananqaisar-commits" alt="hananqaisar-commits" />
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=hananqaisar-commits.hananqaisar-commits)
+<img src="https://komarev.com/ghpvc/?username=hananqaisar-commits" alt="hananqaisar-commits" />
+
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hanan%20Qaisar-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/hanan-qaisar-22b0b6368/)
-[![X (Twitter)](https://img.shields.io/badge/X-@hanan_qa316-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/hanan_qa316)
-[![Email](https://img.shields.io/badge/Email-hanan%40student.comsats.lhr.pk-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:hananqaisar316@gmail.com)
+[![X (Twitter)](https://img.shields.io/badge/X-@hanan__qa316-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/hanan_qa316)
+[![Email](https://img.shields.io/badge/Email-hananqaisar316%40gmail.com-1f6feb?logo=gmail&logoColor=white&style=flat-square)](mailto:hananqaisar316@gmail.com)
+
 <br>
 
-[![Instagram](https://img.shields.io/badge/Insta-@hanan_qaisar-000000?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/hanan.qaisar?igsh=YTVwb2cwNG44aXp5)
-[![Fiverr](https://img.shields.io/badge/Fiverr-hanan_fiverr-000000?logo=fiverr&logoColor=white&style=flat-square)](https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile)
-
+[![Instagram](https://img.shields.io/badge/Insta-@hanan__qaisar-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/hanan.qaisar?igsh=YTVwb2cwNG44aXp5)
+[![Fiverr](https://img.shields.io/badge/Fiverr-hananqaisar316-1DBF73?logo=fiverr&logoColor=white&style=flat-square)](https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile)
 ---
 ### Skills
 
