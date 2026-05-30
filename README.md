@@ -1,9 +1,4 @@
-<!-- DARK MODE HEADER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=140&section=header&animation=fadeIn&text=Hanan%20Qaisar&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=11ADF7"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dff0ff,50:11ADF7,100:dff0ff&height=140&section=header&animation=fadeIn&text=Hanan%20Qaisar&fontColor=0d1117&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=0550ae"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=140&section=header&animation=fadeIn&text=Hanan%20Qaisar&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=11ADF7" width="100%" alt="header"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=140&section=header&text=Hanan%20Qaisar&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=11ADF7" width="100%" alt="header"/>
 
 <h1 align="left">&nbsp;&nbsp;&nbsp;Hi, I'm Hanan Qaisar <img src="./shrug.svg" width="360" height="60" style="vertical-align:middle"></h1>
 
@@ -27,11 +22,7 @@
   <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile"><img src="https://img.shields.io/badge/Fiverr-hananqaisar316-1DBF73?logo=fiverr&logoColor=white&style=flat-square"/></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0550ae&height=2"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
 
 <br>
 
@@ -49,11 +40,7 @@
 
 <br><br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0550ae&height=2"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
 
 <br>
 
@@ -69,11 +56,7 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0550ae&height=2"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
 
 <br>
 
@@ -118,11 +101,7 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="48" alt="PyCharm" title="PyCharm"/></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0550ae&height=2"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
 
 <br>
 
@@ -141,11 +120,7 @@
   </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0550ae&height=2"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
 
 <br>
 
@@ -163,11 +138,7 @@
   </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0550ae&height=2"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
 
 <br>
 
@@ -180,39 +151,19 @@
 <br clear="both"/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight&hide_border=true&border_radius=16"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=default&hide_border=true&border_radius=16"/>
-    <img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight&hide_border=true&border_radius=16" width="60%"/>
-  </picture>
+  <img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight&hide_border=true&border_radius=16" width="60%"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true&border_radius=16"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=default&layout=compact&hide_border=true&border_radius=16"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true&border_radius=16" height="170px"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=default&hide_border=true&border_radius=16"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16" height="170px"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true&border_radius=16" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16" height="170px"/>
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true&radius=16"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=github&hide_border=true&area=true&radius=16"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true&radius=16" width="95%"/>
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true&radius=16" width="95%"/>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0550ae&height=2"/>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
 
 <br>
 
@@ -241,27 +192,15 @@
 
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
-</picture>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
 
 <br>
 
 <div align="center">
-  <br>
-  <i>"Whatever is Easy is Hard, Whatever is Hard is Easy"</i>
-  <br>
+  <i>"Whatever is Easy is Hard, Whatever is Hard is Easy"</i><br>
   <sub>— Hanan Qaisar</sub>
-  <br>
 </div>
 
 <br>
 
-<!-- DARK MODE FOOTER -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=100&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dff0ff,50:11ADF7,100:dff0ff&height=100&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=100&section=footer" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=100&section=footer" width="100%"/>
