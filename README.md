@@ -1,4 +1,4 @@
-
+<!-- DARK MODE HEADER -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=140&section=header&animation=fadeIn&text=Hanan%20Qaisar&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=11ADF7"/>
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dff0ff,50:11ADF7,100:dff0ff&height=140&section=header&animation=fadeIn&text=Hanan%20Qaisar&fontColor=0d1117&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=0550ae"/>
@@ -250,19 +250,18 @@
 <br>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:11ADF7&height=60&text=%22Whatever%20is%20Easy%20is%20Hard%2C%20Whatever%20is%20Hard%20is%20Easy%22&fontColor=ffffff&fontSize=16&fontAlignY=55&animation=fadeIn"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:dff0ff,100:0550ae&height=60&text=%22Whatever%20is%20Easy%20is%20Hard%2C%20Whatever%20is%20Hard%20is%20Easy%22&fontColor=0d1117&fontSize=16&fontAlignY=55&animation=fadeIn"/>
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:11ADF7&height=60&text=%22Whatever%20is%20Easy%20is%20Hard%2C%20Whatever%20is%20Hard%20is%20Easy%22&fontColor=ffffff&fontSize=16&fontAlignY=55&animation=fadeIn" width="100%"/>
-  </picture>
-  <sub><i>— Hanan Qaisar</i></sub>
+  <br>
+  <i>"Whatever is Easy is Hard, Whatever is Hard is Easy"</i>
+  <br>
+  <sub>— Hanan Qaisar</sub>
+  <br>
 </div>
 
 <br>
 
-
+<!-- DARK MODE FOOTER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=100&section=footer&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dff0ff,50:11ADF7,100:dff0ff&height=100&section=footer&animation=fadeIn"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=100&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dff0ff,50:11ADF7,100:dff0ff&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=100&section=footer" width="100%"/>
 </picture>
