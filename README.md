@@ -1,8 +1,8 @@
-<!-- DARK MODE HEADER -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=140&section=header&animation=fadeIn&text=Hanan%20Qaisar&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=11ADF7"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4fd,50:11ADF7,100:e8f4fd&height=140&section=header&animation=fadeIn&text=Hanan%20Qaisar&fontColor=0d1117&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=0550ae"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=140&section=header&animation=fadeIn&text=Hanan%20Qaisar&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=11ADF7" width="100%"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dff0ff,50:11ADF7,100:dff0ff&height=140&section=header&animation=fadeIn&text=Hanan%20Qaisar&fontColor=0d1117&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=0550ae"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=140&section=header&animation=fadeIn&text=Hanan%20Qaisar&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=11ADF7" width="100%" alt="header"/>
 </picture>
 
 <h1 align="left">&nbsp;&nbsp;&nbsp;Hi, I'm Hanan Qaisar <img src="./shrug.svg" width="360" height="60" style="vertical-align:middle"></h1>
@@ -16,7 +16,6 @@
 <p align="left">
   <img src="https://img.shields.io/github/followers/hananqaisar-commits?style=flat-square&logo=github&labelColor=0d1117&color=11ADF7&label=Followers"/>&nbsp;
   <img src="https://img.shields.io/github/stars/hananqaisar-commits?style=flat-square&logo=github&labelColor=0d1117&color=11ADF7&label=Stars"/>&nbsp;
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=hananqaisar-commits.hananqaisar-commits&style=flat-square"/>&nbsp;
   <img src="https://komarev.com/ghpvc/?username=hananqaisar-commits&style=flat-square&color=11ADF7&label=Profile+Views"/>
 </p>
 
@@ -60,31 +59,13 @@
 
 ## 🛠️ Skills
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/C%20%2F%20C%2B%2B-Languages-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0d1117"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/C%20%2F%20C%2B%2B-Languages-00599C?style=flat-square&logo=c&logoColor=white&labelColor=ddeeff"/>
-  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-Languages-00599C?style=flat-square&logo=c&logoColor=white&labelColor=0d1117"/>
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Java-Languages-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Java-Languages-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=fff3e0"/>
-  <img src="https://img.shields.io/badge/Java-Languages-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0d1117"/>
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Python-fundamentals-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Python-fundamentals-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=e3f0ff"/>
-  <img src="https://img.shields.io/badge/Python-fundamentals-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0d1117"/>
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Bash%20%26%20Linux-daily%20driver-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Bash%20%26%20Linux-daily%20driver-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=e8f5e9"/>
-  <img src="https://img.shields.io/badge/Bash%20%26%20Linux-daily%20driver-4EAA25?style=flat-square&logo=gnubash&logoColor=white&labelColor=0d1117"/>
-</picture>&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/OOP-Paradigm-9B59B6?style=flat-square&logo=buffer&logoColor=white&labelColor=0d1117"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/OOP-Paradigm-9B59B6?style=flat-square&logo=buffer&logoColor=white&labelColor=f3e5ff"/>
-  <img src="https://img.shields.io/badge/OOP-Paradigm-9B59B6?style=flat-square&logo=buffer&logoColor=white&labelColor=0d1117"/>
-</picture>
+<p align="left">
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=flat-square&logo=c&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Bash%20%26%20Linux-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/OOP-9B59B6?style=flat-square&logo=buffer&logoColor=white"/>
+</p>
 
 <br>
 
@@ -154,8 +135,30 @@
     </td>
     <td>
       <strong>BS Software Engineering</strong><br/>
-      COMSATS University Islamabad<br/>
+      COMSATS University Islamabad, Lahore Campus<br/>
       <strong>GPA:</strong> 3.14
+    </td>
+  </tr>
+</table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=rect&color=0550ae&height=2"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
+</picture>
+
+<br>
+
+## 🚀 Projects
+
+<table border="0" cellspacing="0" cellpadding="12">
+  <tr>
+    <td>
+      <strong>📦 <a href="https://github.com/hananqaisar-commits/Smart_Inventory_System">Smart Inventory System</a></strong><br/>
+      A full-featured desktop inventory management app built with Java & JavaFX. Features a clean GUI with real-time dashboard charts, user authentication, smart stock alerts, and full CRUD operations with search, filter, and export capabilities.<br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/JavaFX-GUI-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Features-Dashboard%20%7C%20Auth%20%7C%20Reports-11ADF7?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -171,38 +174,38 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="600">
 </p>
 
 <br clear="both"/>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight&hide_border=true&border_radius=16">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=default&hide_border=true&border_radius=16">
-  <img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=default&hide_border=true&border_radius=16" width="60%"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight&hide_border=true&border_radius=16"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=default&hide_border=true&border_radius=16"/>
+    <img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight&hide_border=true&border_radius=16" width="60%"/>
+  </picture>
 </p>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true&border_radius=16">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=default&layout=compact&hide_border=true&border_radius=16">
-  <img alt="hananqaisar-commits's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=default&layout=compact&hide_border=true&border_radius=16" height="170px"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=default&hide_border=true&border_radius=16">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=default&hide_border=true&border_radius=16" alt="hananqaisar-commits" height="170px"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true&border_radius=16"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=default&layout=compact&hide_border=true&border_radius=16"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact&hide_border=true&border_radius=16" height="170px"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=default&hide_border=true&border_radius=16"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16" height="170px"/>
+  </picture>
 </p>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true&radius=16">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=github&hide_border=true&area=true&radius=16">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=github&hide_border=true&area=true&radius=16" width="95%" alt="Hanan's Contribution Graph"/>
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true&radius=16"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=github&hide_border=true&area=true&radius=16"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true&radius=16" width="95%"/>
+  </picture>
 </p>
 
 <picture>
@@ -247,14 +250,19 @@
 <br>
 
 <div align="center">
-<sub><i>"Whatever is Easy is Hard, Whatever is Hard is Easy"</i></sub>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:11ADF7&height=60&text=%22Whatever%20is%20Easy%20is%20Hard%2C%20Whatever%20is%20Hard%20is%20Easy%22&fontColor=ffffff&fontSize=16&fontAlignY=55&animation=fadeIn"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:dff0ff,100:0550ae&height=60&text=%22Whatever%20is%20Easy%20is%20Hard%2C%20Whatever%20is%20Hard%20is%20Easy%22&fontColor=0d1117&fontSize=16&fontAlignY=55&animation=fadeIn"/>
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:11ADF7&height=60&text=%22Whatever%20is%20Easy%20is%20Hard%2C%20Whatever%20is%20Hard%20is%20Easy%22&fontColor=ffffff&fontSize=16&fontAlignY=55&animation=fadeIn" width="100%"/>
+  </picture>
+  <sub><i>— Hanan Qaisar</i></sub>
 </div>
 
 <br>
 
-<!-- DARK MODE FOOTER -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=100&section=footer&animation=fadeIn"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e8f4fd,50:11ADF7,100:e8f4fd&height=100&section=footer&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:dff0ff,50:11ADF7,100:dff0ff&height=100&section=footer&animation=fadeIn"/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=100&section=footer&animation=fadeIn" width="100%"/>
 </picture>
