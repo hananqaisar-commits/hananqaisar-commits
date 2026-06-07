@@ -115,7 +115,6 @@
     <td>
       <strong>BS Software Engineering</strong><br/>
       COMSATS University Islamabad, Lahore Campus<br/>
-      <strong>GPA:</strong> 3.14
     </td>
   </tr>
 </table>
