@@ -135,6 +135,17 @@
       <img src="https://img.shields.io/badge/Features-Dashboard%20%7C%20Auth%20%7C%20Reports-11ADF7?style=flat-square"/>
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <strong>🔓 <a href="https://github.com/hananqaisar-commits/NovaUnlock">NovaUnlock</a></strong><br/>
+      A smart face unlock system for Linux login and lock screens. NovaUnlock delivers fast, private, and camera-based authentication with a polished interface, desktop integration for GNOME and KDE, experimental GDM greeter support, and improved installer compatibility including automatic Wayland detection and X11 setup assistance.<br/><br/>
+      <img src="https://img.shields.io/badge/Latest-v4.3-11ADF7?style=flat-square"/>&nbsp;
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>&nbsp;
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
+      <img src="https://img.shields.io/badge/Features-Face%20Unlock%20%7C%20GNOME%20%7C%20KDE-11ADF7?style=flat-square"/>
+    </td>
+  </tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
