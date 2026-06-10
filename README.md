@@ -130,6 +130,7 @@
     <td>
       <strong>📦 <a href="https://github.com/hananqaisar-commits/Smart_Inventory_System">Smart Inventory System</a></strong><br/>
       A full-featured desktop inventory management app built with Java & JavaFX. Features a clean GUI with real-time dashboard charts, user authentication, smart stock alerts, and full CRUD operations with search, filter, and export capabilities.<br/><br/>
+       <img src="https://img.shields.io/badge/Latest-v1.1-11ADF7?style=flat-square"/>&nbsp;
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp;
       <img src="https://img.shields.io/badge/JavaFX-GUI-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;
       <img src="https://img.shields.io/badge/Features-Dashboard%20%7C%20Auth%20%7C%20Reports-11ADF7?style=flat-square"/>
@@ -140,7 +141,7 @@
     <td>
       <strong>🔓 <a href="https://github.com/hananqaisar-commits/NovaUnlock">NovaUnlock</a></strong><br/>
       A smart face unlock system for Linux login and lock screens. NovaUnlock delivers fast, private, and camera-based authentication with a polished interface, desktop integration for GNOME and KDE, experimental GDM greeter support, and improved installer compatibility including automatic Wayland detection and X11 setup assistance.<br/><br/>
-      <img src="https://img.shields.io/badge/Latest-v4.6-11ADF7?style=flat-square"/>&nbsp;
+      <img src="https://img.shields.io/badge/Latest-v5.3-11ADF7?style=flat-square"/>&nbsp;
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>&nbsp;
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
       <img src="https://img.shields.io/badge/Features-Face%20Unlock%20%7C%20GNOME%20%7C%20KDE-11ADF7?style=flat-square"/>
