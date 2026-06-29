@@ -75,6 +75,14 @@
     title="HTML5"
   />
 </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    height="48"
+    alt="CSS3"
+    title="CSS3"
+  />
+</a>
 
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="48" alt="Bash" title="Bash"/></a>&nbsp;
