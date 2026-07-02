@@ -230,15 +230,6 @@
   <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile" target="_blank">
     <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" alt="Fiverr"/>
   </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=hananqaisar-commits&style=for-the-badge&color=11ADF7&labelColor=0d1117&label=Profile+Views"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=hananqaisar-commits&style=for-the-badge&color=0550ae&labelColor=eff3f6&label=Profile+Views"/>
-    <img src="https://komarev.com/ghpvc/?username=hananqaisar-commits&style=for-the-badge&color=11ADF7&labelColor=0d1117&label=Profile+Views"/>
-  </picture>
-</p>
 
 <br/>
 
