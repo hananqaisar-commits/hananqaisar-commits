@@ -237,10 +237,6 @@
 
 <br>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
-
-<br>
-
 <div align="center">
   <i>"Whatever is Easy is Hard, Whatever is Hard is Easy"</i><br>
   <sub>— Hanan Qaisar</sub>
