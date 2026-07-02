@@ -1,12 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=140&section=header&text=Hanan%20Qaisar&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=16&descColor=11ADF7" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:11ADF7,100:0d1117&height=200&section=header&text=Hi%2C%20I%27m%20Hanan%20Qaisar&fontColor=ffffff&fontSize=40&fontAlign=35&fontAlignY=44&desc=Software%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlign=35&descAlignY=63&descSize=16&descColor=11ADF7" width="100%" alt="header"/>
 
-<h1 align="left">&nbsp;&nbsp;&nbsp;Hi, I'm Hanan Qaisar <img src="./shrug.svg" width="360" height="60" style="vertical-align:middle"></h1>
-
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=11ADF7&center=true&width=600&lines=Software+Engineering+Student;Cybersecurity+Enthusiast;Network+Explorer;Always+Breaking+Things+to+Learn" alt="Typing SVG" />
-  </a>
-</p>
+<table width="100%" border="0" cellpadding="6" cellspacing="0">
+  <tr>
+    <td align="left" valign="middle" width="60%">
+      &nbsp;&nbsp;&nbsp;
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=11ADF7&width=500&lines=Software+Engineering+Student;Cybersecurity+Enthusiast;Network+Explorer;Always+Breaking+Things+to+Learn" alt="Typing SVG" />
+      </a>
+    </td>
+    <td align="right" valign="middle" width="40%">
+      <img src="./shrug.svg" width="360" height="60" style="vertical-align:middle"/>
+    </td>
+  </tr>
+</table>
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/hananqaisar-commits?style=flat-square&logo=github&labelColor=0d1117&color=11ADF7&label=Followers"/>&nbsp;
