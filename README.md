@@ -199,37 +199,100 @@
 </table>
 
 <br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:11ADF720,100:0d1117&height=68&text=GitHub%20Stats&fontColor=11ADF7&fontSize=20&fontAlignY=60&fontAlign=18&desc=contributions%20%C2%B7%20streaks%20%C2%B7%20activity&descColor=8b949e&descSize=11&descAlignY=85&descAlign=18"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:11ADF730,100:f6f8fa&height=68&text=GitHub%20Stats&fontColor=0550ae&fontSize=20&fontAlignY=60&fontAlign=18&desc=contributions%20%C2%B7%20streaks%20%C2%B7%20activity&descColor=656d76&descSize=11&descAlignY=85&descAlign=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:11ADF720,100:0d1117&height=68&text=GitHub%20Stats&fontColor=11ADF7&fontSize=20&fontAlignY=60&fontAlign=18" width="100%"/>
+</picture>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true&radius=16" width="96%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight&hide_border=true&border_radius=16"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=default&hide_border=true&border_radius=16"/>
+    <img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight&hide_border=true&border_radius=16" width="68%"/>
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=hananqaisar-commits&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=hananqaisar-commits&theme=flat&no-frame=true&column=6&margin-w=4"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=hananqaisar-commits&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=4" width="96%"/>
+  </picture>
+</p>
+
+<table align="center" width="96%" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=default&hide_border=true&border_radius=16"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=hananqaisar-commits&show_icons=true&count_private=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16" width="100%"/>
+      </picture>
+    </td>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=default&hide_border=true&border_radius=16"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hananqaisar-commits&langs_count=10&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=16" width="100%"/>
+      </picture>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true&radius=16"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=github-light&hide_border=true&area=true&radius=16"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true&radius=16" width="96%"/>
+  </picture>
 </p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:11ADF718,100:0d1117&height=56&text=Connect&fontColor=11ADF7&fontSize=20&fontAlignY=72&fontAlign=13" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:11ADF720,100:0d1117&height=68&text=Connect&fontColor=11ADF7&fontSize=20&fontAlignY=60&fontAlign=13&desc=let%27s%20build%20something%20together&descColor=8b949e&descSize=11&descAlignY=85&descAlign=13"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:11ADF730,100:f6f8fa&height=68&text=Connect&fontColor=0550ae&fontSize=20&fontAlignY=60&fontAlign=13&desc=let%27s%20build%20something%20together&descColor=656d76&descSize=11&descAlignY=85&descAlign=13"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:11ADF720,100:0d1117&height=68&text=Connect&fontColor=11ADF7&fontSize=20&fontAlignY=60&fontAlign=13" width="100%"/>
+</picture>
 
 <p align="center">
   <a href="https://github.com/hananqaisar-commits" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-hananqaisar--commits-11ADF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
-  </a>&nbsp;
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717"/>
+      <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub"/>
+    </picture>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:hananqaisar316@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-hananqaisar316-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
-  </a>&nbsp;
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail"/>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hanan-qaisar-22b0b6368/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hanan%20Qaisar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/hanan.qaisar?igsh=YTVwb2cwNG44aXp5" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/FF0069" height="40" alt="Instagram"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/hanan_qa316" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000"/>
+      <img src="https://cdn.simpleicons.org/x/000000" height="40" alt="X"/>
+    </picture>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile" target="_blank">
+    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="40" alt="Fiverr"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/hanan.qaisar?igsh=YTVwb2cwNG44aXp5" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-hanan.qaisar-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
-  </a>&nbsp;
-  <a href="https://twitter.com/hanan_qa316" target="_blank">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-hanan__qa316-11ADF7?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117"/>
-  </a>&nbsp;
-  <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-hananqaisar316-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d1117"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=hananqaisar-commits&style=for-the-badge&color=11ADF7&labelColor=0d1117&label=Profile+Views"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=hananqaisar-commits&style=for-the-badge&color=0550ae&labelColor=eff3f6&label=Profile+Views"/>
+    <img src="https://komarev.com/ghpvc/?username=hananqaisar-commits&style=for-the-badge&color=11ADF7&labelColor=0d1117&label=Profile+Views"/>
+  </picture>
 </p>
 
 <br/>
