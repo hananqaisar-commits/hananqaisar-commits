@@ -181,10 +181,10 @@
 
 <br>
 
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:11ADF718,100:0d1117&height=56&text=GitHub%20Stats&fontColor=11ADF7&fontSize=20&fontAlignY=72&fontAlign=18" width="100%"/>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight&hide_border=true&border_radius=16" width="65%"/>
+  <img src="https://streak-stats.demolab.com/?user=hananqaisar-commits&theme=tokyonight&hide_border=true&border_radius=16" width="68%"/>
 </p>
 
 <table align="center" width="96%" border="0" cellspacing="0" cellpadding="6">
@@ -204,50 +204,39 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hananqaisar-commits&theme=tokyo-night&hide_border=true&area=true&radius=16" width="96%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:11ADF718,100:0d1117&height=56&text=Connect&fontColor=11ADF7&fontSize=20&fontAlignY=72&fontAlign=13" width="100%"/>
+
+<p align="center">
+  <a href="https://github.com/hananqaisar-commits" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-hananqaisar--commits-11ADF7?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+  </a>&nbsp;
+  <a href="mailto:hananqaisar316@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-hananqaisar316-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/hanan-qaisar-22b0b6368/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Hanan%20Qaisar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.instagram.com/hanan.qaisar?igsh=YTVwb2cwNG44aXp5" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-hanan.qaisar-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
+  </a>&nbsp;
+  <a href="https://twitter.com/hanan_qa316" target="_blank">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-hanan__qa316-11ADF7?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117"/>
+  </a>&nbsp;
+  <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-hananqaisar316-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white&labelColor=0d1117"/>
+  </a>
+</p>
 
 <br/>
 
-## 🔗 Connect
-
-<table width="96%" align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="left" valign="middle" width="58%">
-      <a href="https://github.com/hananqaisar-commits" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/ffffff">
-          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
-          <img src="https://cdn.simpleicons.org/github/181717" height="36" alt="GitHub"/>
-        </picture>
-      </a>&nbsp;&nbsp;
-      <a href="mailto:hananqaisar316@gmail.com" target="_blank">
-        <img src="https://cdn.simpleicons.org/gmail/EA4335" height="36" alt="Gmail"/>
-      </a>&nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/hanan-qaisar-22b0b6368/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="36" alt="LinkedIn"/>
-      </a>&nbsp;&nbsp;
-      <a href="https://www.instagram.com/hanan.qaisar?igsh=YTVwb2cwNG44aXp5" target="_blank">
-        <img src="https://cdn.simpleicons.org/instagram/FF0069" height="36" alt="Instagram"/>
-      </a>&nbsp;&nbsp;
-      <a href="https://twitter.com/hanan_qa316" target="_blank">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff">
-          <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000">
-          <img src="https://cdn.simpleicons.org/x/000000" height="36" alt="X"/>
-        </picture>
-      </a>&nbsp;&nbsp;
-      <a href="https://www.fiverr.com/hananqaisar316/buying?source=avatar_menu_profile" target="_blank">
-        <img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="36" alt="Fiverr"/>
-      </a>
-    </td>
-    <td align="right" valign="middle" width="42%">
-      <p align="right">
-        <i>"Whatever is Easy is Hard,<br/>Whatever is Hard is Easy"</i><br/>
-        <sub>— <b>Hanan Qaisar</b></sub>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <sub><i>"Whatever is Easy is Hard, Whatever is Hard is Easy"</i>&nbsp; · &nbsp;<b>Hanan Qaisar</b></sub>
+</div>
 
 <br/>
 
