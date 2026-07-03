@@ -50,7 +50,7 @@
 
 <br>
 
-## 🛠️ Skills
+## Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=flat-square&logo=c&logoColor=white"/>&nbsp;
@@ -66,7 +66,7 @@
 
 <br>
 
-## 🍳 My Kitchen
+##  My Kitchen
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48" alt="C" title="C"/></a>&nbsp;
