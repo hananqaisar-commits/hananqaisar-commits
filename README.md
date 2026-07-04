@@ -151,7 +151,7 @@
 
 <br>
 
-## 🚀 Projects
+##  Projects
 
 <table border="0" cellspacing="0" cellpadding="12">
   <tr>
