@@ -116,8 +116,6 @@
   <a href="https://www.kali.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="48" alt="Kali Linux" title="Kali Linux"/></a>&nbsp;
   <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark" title="Wireshark"/></a>&nbsp;
   <a href="https://nmap.org/" target="_blank"><img src="https://img.icons8.com/color/48/nmap.png" height="48" alt="Nmap" title="Nmap"/></a>&nbsp;
-  <a href="https://www.metasploit.com/" target="_blank"><img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit" title="Metasploit"/></a>&nbsp;
-  <a href="https://portswigger.net/burp" target="_blank"><img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" title="Burp Suite"/></a>&nbsp;
   <a href="https://www.cisco.com/" target="_blank"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="48" alt="Cisco" title="Cisco"/></a>
 </p>
 
