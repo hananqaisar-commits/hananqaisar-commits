@@ -50,44 +50,53 @@
 ## Skills
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-00599C?style=flat-square&logo=c&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Bash%20%26%20Linux-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/OOP-9B59B6?style=flat-square&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
 <br>
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
 
 <br>
 
-## <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48" alt="C" title="C"/>
-  </a>&nbsp;
-  <a href="https://cplusplus.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" title="C++"/>
-  </a>&nbsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="48" alt="C#" title="C#"/>
-  </a>&nbsp;
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java" title="Java"/>
-  </a>&nbsp;
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python" title="Python"/>
-  </a>&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="48" alt="CSS3" title="CSS3"/>
-  </a>
+**Languages**
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48" alt="C" title="C"/></a>&nbsp;
+  <a href="https://cplusplus.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++" title="C++"/></a>&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="48" alt="C#" title="C#"/></a>&nbsp;
+  <a href="https://www.java.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="48" alt="Java" title="Java"/></a>&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="48" alt="Python" title="Python"/></a>
 </p>
 
+**Backend & Web**
+<p align="left">
+  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="48" alt=".NET" title=".NET"/></a>&nbsp;
+  <a href="https://angular.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="48" alt="Angular" title="Angular"/></a>&nbsp;
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="48" alt="HTML5" title="HTML5"/></a>&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="48" alt="CSS3" title="CSS3"/></a>
+</p>
+
+**Database**
+<p align="left">
+  <a href="https://www.postgresql.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" title="PostgreSQL"/></a>
+</p>
+
+**Security & Networking**
+<p align="left">
+  <a href="https://www.kali.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="48" alt="Kali Linux" title="Kali Linux"/></a>&nbsp;
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark" title="Wireshark"/></a>&nbsp;
+  <a href="https://nmap.org/" target="_blank"><img src="https://img.icons8.com/color/48/nmap.png" height="48" alt="Nmap" title="Nmap"/></a>&nbsp;
+  <a href="https://www.cisco.com/" target="_blank"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="48" alt="Cisco" title="Cisco"/></a>
+</p>
+
+**Tools & Environment**
 <p align="left">
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="48" alt="Bash" title="Bash"/></a>&nbsp;
   <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="48" alt="Linux" title="Linux"/></a>&nbsp;
@@ -99,24 +108,7 @@
       <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717">
       <img src="https://cdn.simpleicons.org/github/181717" height="48" alt="GitHub" title="GitHub"/>
     </picture>
-  </a>
-</p>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-    height="48"
-    alt="PostgreSQL"
-    title="PostgreSQL"
-  />
-</a>
-<p align="left">
-  <a href="https://www.kali.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" height="48" alt="Kali Linux" title="Kali Linux"/></a>&nbsp;
-  <a href="https://www.wireshark.org/" target="_blank"><img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark" title="Wireshark"/></a>&nbsp;
-  <a href="https://nmap.org/" target="_blank"><img src="https://img.icons8.com/color/48/nmap.png" height="48" alt="Nmap" title="Nmap"/></a>&nbsp;
-  <a href="https://www.cisco.com/" target="_blank"><img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="48" alt="Cisco" title="Cisco"/></a>
-</p>
-
-<p align="left">
+  </a>&nbsp;
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="48" alt="VS Code" title="VS Code"/></a>&nbsp;
   <a href="https://www.vim.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" height="48" alt="Vim" title="Vim"/></a>&nbsp;
   <a href="https://www.nano-editor.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nano/nano-plain-wordmark.svg" height="48" alt="Nano" title="Nano"/></a>&nbsp;
@@ -124,7 +116,6 @@
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="48" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a>&nbsp;
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="48" alt="PyCharm" title="PyCharm"/></a>
 </p>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=11ADF7&height=2" width="100%"/>
 
 <br>
